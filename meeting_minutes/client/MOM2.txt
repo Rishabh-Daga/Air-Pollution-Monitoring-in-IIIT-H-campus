@@ -1,0 +1,29 @@
+Date : 01-02-2020
+Time : 4:30 PM
+Topic: Second Meet with Client
+Attendees: Anubhav Sharma
+	   	   Shiva Prasad
+	       Rishabh Daga
+	       Monil Gokani
+
+--------------------------------------------------------------------------------------
+| Type | 						   Description                          |  Deadline  |
+--------------------------------------------------------------------------------------
+|  T  | Plot sample graphs of real data & verify them by next sprint.   | 15/02/2020 |
+--------------------------------------------------------------------------------------
+|  T  | Search more about Indian AQI formula.	    			 	    | 15/02/2020 |
+--------------------------------------------------------------------------------------
+|  T  | Differentiate between real and extrapolated values.             | 15/02/2020 |
+--------------------------------------------------------------------------------------
+|  T  | Add Air Purifier location prescriber as a use case.	            | 15/02/2020 |
+--------------------------------------------------------------------------------------
+|  T  | Add Fault Detection of sensors as a use case.			        | 15/02/2020 |
+--------------------------------------------------------------------------------------
+|  T  | Add checking air quality trends across the campus to determine  | 15/02/2020 |
+|     |    number of nodes needed as a use case.                        |            |
+--------------------------------------------------------------------------------------
+|  T  | Extrapolating above to find acceptable redundancy to scale      | 15/02/2020 |
+|     |     up the project to other colleges/cities as a use case.      |            |
+--------------------------------------------------------------------------------------
+|  D  | Make a Whatsapp group to cummunicate with client.               |            |
+--------------------------------------------------------------------------------------

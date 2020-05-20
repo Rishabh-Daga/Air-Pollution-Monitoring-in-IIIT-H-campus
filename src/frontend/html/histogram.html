@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="../css/united.css">
+    <title>Homepage</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+  
+  <body>
+    <script type="text/javascript" src="../js/histogram.js"></script>
+
+  <div id="navbar" class="sticky" style="z-index: 10;"> <ul>
+    <li><a href="homepage.html">Home</a></li>
+    <li><a href="line.html">Line Graphs</a></li>
+    <li><a class="active" href="histogram.html">Histogram</a></li>
+    <li><a href="stats.html">Stats</a></li>
+  </ul> </div>
+      
+  <form id="myform" class="dropdown-content">
+    Parameter: 
+    <select name="Parameter" class="form-content">
+      <option value="pm25">PM 2.5</option>
+      <option value="pm10">PM 10</option>
+      <option value="temp">Temperature</option>
+      <option value="humidity">Humidity</option>
+    </select>
+    Node Location:
+    <select name="Node Number" class="form-content">
+      <!-- <option value="all">All nodes</option> -->
+      <option value="31">Palash Niwas</option>
+      <option value="32">Near Parijat/Felicity Ground</option>
+      <option value="33">Bakul Niwas</option>
+      <option value="24">KRB Auditorium</option>
+      <option value="11">Faculty Quarters</option>
+      <option value="12">Library</option>
+      <option value="14">Main Gate</option>
+    </select>
+    Period:
+    <select name="Average" class="form-content" onchange="show_date()">
+      <option value="daily">Daily</option>
+      <option value="weekly">Weekly</option>
+    </select>
+    <span id="date">
+      Date:
+      <select name="date" class="form-content">
+          <!-- <option value="01">01</option>
+          <option value="02">02</option>
+          <option value="03">03</option>
+          <option value="04">04</option>
+          <option value="05">05</option>
+          <option value="06">06</option>
+          <option value="07">07</option>
+          <option value="08">08</option>
+          <option value="09">09</option>
+          <option value="10">10</option>
+          <option value="11">11</option>
+          <option value="12">12</option>
+          <option value="13">13</option>
+          <option value="14">14</option>
+          <option value="15">15</option>
+          <option value="16">16</option>
+          <option value="17">17</option>
+          <option value="18">18</option>
+          <option value="19">19</option>
+          <option value="20">20</option>
+          <option value="21">21</option> -->
+          <option value="22">22</option>
+          <option value="23">23</option>
+          <option value="24">24</option>
+          <option value="25">25</option>
+          <option value="26">26</option>
+          <option value="27">27</option>
+          <option value="28">28</option>
+          <!-- <option value="29">29</option>
+          <option value="30">30</option>
+          <option value="31">31</option> -->
+      </select>
+    </span>
+  </form>
+
+  <button class="button_hist" onclick="render_hist()">Show Histogram</button>
+  
+  <div id="image"></div>
+  
+  </body>
+</html>

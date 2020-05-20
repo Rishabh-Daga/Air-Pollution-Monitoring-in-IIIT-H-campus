@@ -1,0 +1,21 @@
+Date : 17-01-2020
+Time : 6:00 PM
+Topic: Introductory Meet with Client
+Attendees: Anubhav Sharma
+	   	   Shiva Prasad
+	       Rishabh Daga
+	       Monil Gokani
+
+------------------------------------------------------------------------------------------------------
+| Type | 								Description                                  	|  Deadline  |
+------------------------------------------------------------------------------------------------------
+|  T  | Analysis of the current implementations popular in the industry. 			 	| 30/01/2020 |
+------------------------------------------------------------------------------------------------------
+|  T  | State all the technical design requirements of the project.	    			 	| 30/01/2020 |
+------------------------------------------------------------------------------------------------------
+|  I  | Discussed about some of the current implementations going on in the industry.	|            |
+------------------------------------------------------------------------------------------------------
+|  D  | Decided to meet atleast once a week.                                         	|            |
+------------------------------------------------------------------------------------------------------
+|  D  | We are free to use our own creativity in our software implementation.			|		     |
+------------------------------------------------------------------------------------------------------

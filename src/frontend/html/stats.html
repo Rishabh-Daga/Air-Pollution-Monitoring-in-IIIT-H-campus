@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="../css/united.css">
+    <title>Homepage</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  </head>
+  <body>
+    <script type="text/javascript" src="../js/graph.js"></script>
+    
+    <div id="navbar" class="sticky" style="z-index: 10;">
+    <ul>
+      <li><a href="homepage.html">Home</a></li>
+      <li><a href="line.html">Line Graphs</a></li>
+      <li><a href="histogram.html">Histogram</a></li>
+      <li><a class="active" href="stats.html">Stats</a></li>
+    </ul>
+  </div>
+  
+  <form id="myform" class="dropdown-content">
+    Parameter: 
+    <select name="Parameter" class="form-content">
+      <option value="pm25">PM 2.5</option>
+      <option value="pm10">PM 10</option>
+      <option value="temp">Temperature</option>
+      <option value="humidity">Humidity</option>
+    </select>
+    <space>
+      Period:
+
+    </space>
+    <select name="Average" class="form-content">
+      <option value="daily">Daily</option>
+      <option value="week">Weekly</option>
+    </select>
+  </form>
+
+  <button class="button_hist" onclick="render_graph()">Show Stats</button>
+
+  <div id="image"></div>
+
+  </body>
+</html>

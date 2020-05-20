@@ -1,0 +1,38 @@
+Date : 2-03-2020
+Time : 2:30 PM
+Topic: Fourth Meet with Client
+Attendees: Anubhav Sharma
+	   	   Shiva Prasad
+	           Rishabh Daga
+	       	   Monil Gokani
+
+--------------------------------------------------------------------------------------
+|Type |			           Description                          |  Deadline  |
+--------------------------------------------------------------------------------------
+|  T  | Change node names to location name in all graphs                | 3/03/2020  |
+--------------------------------------------------------------------------------------
+|  T  | Add a claendar instead of the present day selection system      | 17/03/2020 |
+|     |    in the UI.                                                   | 17/03/2020 |
+--------------------------------------------------------------------------------------
+|  T  | Add a check box in the UI to allow user to select which         | 17/03/2020 |
+|     |    node's data he would like to compare between                 |            | 
+--------------------------------------------------------------------------------------
+|  T  | Add units to all graph's labels to make it easier to            | 3/03/2020  |
+|     |     interpret.                                                  |            |  
+--------------------------------------------------------------------------------------
+|  D  | Choose a appropiate number for the number of                    | 17/03/2020 |
+|     | bins to be used in histograms displaying weekly data            |            |
+--------------------------------------------------------------------------------------
+|  T  | Add photos of nodes to be displayed on the                      | 17/03/2020 |
+|     |     corresponding pointers on the map.                          |            |
+--------------------------------------------------------------------------------------
+|  T  | Add an alert to notify when sensors/nodes detect abnormalitites | 7/04/2020  |
+--------------------------------------------------------------------------------------
+|  I  | Investigate the correlation between data pattern and sweeping   | 17/03/2020 |
+|     |    of the roads daily.                                          |            |
+--------------------------------------------------------------------------------------
+|  T  | Develop a HomePage for the Web App to display a map with all    | 17/03/2020 |
+|     |    nodes displayed and marked.                                  |            |
+--------------------------------------------------------------------------------------
+|  T  | Increase width of graphs to make data points more visible       | 3/03/2020  |
+--------------------------------------------------------------------------------------

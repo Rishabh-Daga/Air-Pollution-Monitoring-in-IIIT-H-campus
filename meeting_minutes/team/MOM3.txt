@@ -1,0 +1,15 @@
+Date : 31-01-2020
+Time : 7:00 PM
+Topic: Team Meet
+Attendees: Anubhav Sharma
+	   	   Shiva Prasad
+	       Rishabh Daga
+	       Monil Gokani
+
+------------------------------------------------------------------------------------------------------
+| Type | 								Description                                  	|  Deadline  |
+------------------------------------------------------------------------------------------------------
+|  D  | Confirmed the final documentation to be discussed with client.              	|			 |
+------------------------------------------------------------------------------------------------------
+|  D  | Discussed all the approaches towards the implementation.                        |            |
+------------------------------------------------------------------------------------------------------

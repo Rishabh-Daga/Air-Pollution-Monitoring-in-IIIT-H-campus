@@ -1,0 +1,33 @@
+Date : 15-02-2020
+Time : 1:30 PM
+Topic: Third Meet with Client
+Attendees: Anubhav Sharma
+	   	   Shiva Prasad
+	       Rishabh Daga
+	       Monil Gokani
+
+--------------------------------------------------------------------------------------
+| Type | 						   Description                          |  Deadline  |
+--------------------------------------------------------------------------------------
+|  T  | Plot the sample graph which the team had shown for longer       | 15/02/2020 |
+|  T  |     period of time, say 1 week.                                 |            |
+--------------------------------------------------------------------------------------
+|  T  | Make PM 2.5, PM 10, temperature & humidity as main prioirty,    | 15/02/2020 |
+|     |     for now, while plotting sample graphs.                      |            |
+--------------------------------------------------------------------------------------
+|  T  | Plot graph for everyday for 1 node for atleast 1 week and       | 15/02/2020 |
+|     |     verify the correctness of the same by drawing               |            |
+|     |     out certain patterns/trends.                                |            |
+--------------------------------------------------------------------------------------
+|  T  | After plotting for 1 node, try to plot for all the nodes        | 15/02/2020 |
+|     |     located across the campus.                                  |            |  
+--------------------------------------------------------------------------------------
+|  I  | Look into the handle air.pollution@iiit.ac.in.                  |            |
+--------------------------------------------------------------------------------------
+|  I  | Ask Mohsin about his project as it was related to air           |            |
+|     |     pollution.                                                  |            |
+--------------------------------------------------------------------------------------
+|  D  | Problems faced by the team while plotting sample graphs:	    |            |
+|     |     • Long data breaks in data of about 10-15 minutes.          |            |
+|     |     • Corrupt data from the sensors.                            |            |
+--------------------------------------------------------------------------------------
